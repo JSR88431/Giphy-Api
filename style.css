@@ -1,0 +1,13 @@
+body{
+    font-family: 'Kosugi Maru', sans-serif;
+    background-image: url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    background-color:#42ffd2;
+    width: 150px;
+    border-radius: 3px 10px 3px;
+}
