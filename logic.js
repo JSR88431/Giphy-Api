@@ -1,3 +1,6 @@
+$( document ).ready(function() {
+    
+
 var topics = ["basketball", "cars", "technology", "dogs", "babies"];
 
 
@@ -89,3 +92,5 @@ $("#add-topic").on("click", function (event) {
 $(document).on("click", ".pics", animateStill);
 $(document).on("click", ".topic", displayTopic);
 makeButtons();
+
+});
